@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" charset="utf-8"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?libraries=geometry,visualization&sensor=false"></script>
+	<script type="text/javascript" src="gmaps.js"></script>
+	<script type="text/javascript">
+	var map;
+
+	$(document).ready(function(){
+		
+		map = new GMaps({
+			el: '#map',
+			lat: 50.775346,
+			lng: 6.083887,
+			zoomControl : true,
+			zoomControlOpt: {
+				style : 'SMALL',
+				position: 'TOP_LEFT'
+			},
+			zoom : 13,
+			panControl : false,
+			streetViewControl : false,
+			mapTypeControl: false,
+			overviewMapControl: false
+		});
+
+
+		options = function(results, status) {
+			if (status == 'OK') {
+				var latlng = results[0].geometry.location;
+				map.setCenter(latlng.lat(), latlng.lng());
+				console.log( latlng.lat() + ", " + latlng.lng());
+				map.addMarker({
+					lat: latlng.lat(),
+					lng: latlng.lng()
+				});
+			} else {console.log(status);}
+		};
+
+
+		mygeocode = function(street) {
+			GMaps.geocode({
+				address: street,
+				callback: options
+			});
+		}
+
+		var streetjson = '{  "streets" : [    {     "name" : "Vaalser Strasse",      "city" : "Aachen"   },    {       "name" : "Monschauer Strasse",     "city" : "Aachen"   },    {       "name" : "Napoleonsberg",     "city" : "Aachen"   },    {       "name" : "Freunder Landstrasse",     "city" : "Aachen"   },    {       "name" : "Krefelder Strasse",      "city" : "Aachen"   },    {       "name" : "Juelicher Strasse",     "city" : "Aachen"   },    {       "name" : "Trierer Strasse",      "city" : "Aachen"   },    {       "name" : "Forster Weg",     "city" : "Aachen"   },    {       "name" : "Eupener Strasse",      "city" : "Aachen"   },    {       "name" : "Bleiberger Strasse",     "city" : "Aachen"   },    {       "name" : "Horbacher Strasse",      "city" : "Aachen"   },    {       "name" : "Ahornstrasse",     "city" : "Aachen"   },    {       "name" : "Seffenter Weg",     "city" : "Aachen"   },    {       "name" : "Horbacher Strasse",      "city" : "Aachen"   },    {       "name" : "Roermonder Strasse",     "city" : "Aachen"   },    {       "name" : "Nordstrasse",      "city" : "Aachen"   },    {       "name" : "Eilendorfer Strasse",      "city" : "Aachen"   },    {       "name" : "Rombachstrasse",     "city" : "Aachen"   },    {       "name" : "Zieglerstrasse",     "city" : "Aachen"   },    {       "name" : "Gruener Weg",      "city" : "Aachen"   },    {       "name" : "Elsassstrasse",      "city" : "Aachen"   },    {       "name" : "Stolberger Strasse",     "city" : "Aachen"   },    {       "name" : "Oranienstr./Viktoriastr.",      "city" : "Aachen"   },    {       "name" : "Schleidener Strasse",      "city" : "Aachen"   },    {       "name" : "B 258 (Himmelsleiter)",     "city" : "Aachen"   },    {       "name" : "Luetticher Strasse",      "city" : "Aachen"   },    {       "name" : "Freunder Landstrasse",     "city" : "Aachen"   },    {     "name" : "L 240 n",     "city" : "Alsdorf"    },    {     "name" : "Goethestrasse",      "city" : "Alsdorf"    },    {     "name" : "Wardener Strasse",     "city" : "Alsdorf"    },    {     "name" : "Praemienstrasse",     "city" : "Alsdorf"    },    {     "name" : "Juelicher Strasse 240",     "city" : "Alsdorf"    },    {     "name" : "L240",      "city" : "Alsdorf"    },    {     "name" : "Bahnhofstrasse",     "city" : "Baesweiler"   },    {     "name" : "Wolfsgasse",      "city" : "Baesweiler"   },    {     "name" : "Juelicher Strasse",     "city" : "Eschweiler"   },    {     "name" : "Aachener Strasse",     "city" : "Eschweiler"   },    {     "name" : "Caecilienstrasse",      "city" : "Eschweiler"   },    {     "name" : "Roeher Strasse",      "city" : "Eschweiler"   },    {     "name" : "Wilhelminenstrasse",     "city" : "Eschweiler"   },    {     "name" : "Stich",     "city" : "Eschweiler"   },    {     "name" : "An Speenbruch",     "city" : "Herzogenrath"   },    {     "name" : "Muehlenstrasse",      "city" : "Herzogenrath"   },    {     "name" : "Juederstrasse, L223",     "city" : "Herzogenrath"   },    {     "name" : "Geilenkirchener Strasse",      "city" : "Herzogenrath"   },    {     "name" : "Kirchrather Strasse",      "city" : "Herzogenrath"   },    {     "name" : "Sebstianusstrasse",      "city" : "Herzogenrath"   },    {     "name" : "Geilenkirchener Strasse",      "city" : "Herzogenrath"   },    {     "name" : "Bierstrasse",      "city" : "Herzogenrath"   },    {     "name" : "Hargard",     "city" : "Monschau"   },    {     "name" : "Eschbachstrasse",      "city" : "Monschau"   },    {     "name" : "Faulenbruchstrasse",     "city" : "Roetgen"    },    {     "name" : "Bundesstrasse",      "city" : "Roetgen"    },    {     "name" : "Wingertsberg",      "city" : "Simmerath"    },    {     "name" : "Duerener Strasse 105",      "city" : "Simmerath"    },    {     "name" : "Hauptstrasse",     "city" : "Simmerath"    },    {     "name" : "Eicherscheid",      "city" : "Simmerath"    },    {     "name" : "Duffenterstrasse",     "city" : "Stolberg"   },    {     "name" : "Eschweiler Strasse",     "city" : "Stolberg"   },    {     "name" : "Praemienstrasse",     "city" : "Stolberg"   },    {     "name" : "Zeifaller Strasse",      "city" : "Stolberg"   },    {     "name" : "Breiniger Berg",      "city" : "Stolberg"   },    {     "name" : "Markusplatz",     "city" : "Stolberg"   },    {     "name" : "Dobacher Strasse",     "city" : "Wuerselen"   },    {     "name" : "Oppener Strasse",      "city" : "Wuerselen"   },    {     "name" : "Schweilbacher Strasse",      "city" : "Wuerselen"   },    {     "name" : "Umgehungsstrasse",     "city" : "Wuerselen"   } ]}';
+		
+		var streetobj = JSON.parse(streetjson); 
+
+		for(var i = 0; i< streetobj.streets.length; i++) {
+			var item = streetobj.streets[i];
+			console.log("geocoding: " + item.name + ", " + item.city);
+			mygeocode( item.name + ", " + item.city);
+			
+		}
+	});
+</script>
+
+</head>
+<body>
+	<div id="map" style="width: 1000px; height: 500px"></div>
+</body>
+</html>
