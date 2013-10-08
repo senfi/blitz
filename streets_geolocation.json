@@ -1,0 +1,2004 @@
+{
+  "streets": [
+    {
+      "city": "Aachen", 
+      "name": "Vaalser Stra\u00dfe", 
+      "location": {
+        "lat": 50.7692045, 
+        "lng": 6.0502395
+      }, 
+      "formatted_address": "Vaalser Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7713872, 
+          "lng": 6.0755256
+        }, 
+        "southwest": {
+          "lat": 50.76859, 
+          "lng": 6.0251563
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7713872, 
+          "lng": 6.0755256
+        }, 
+        "southwest": {
+          "lat": 50.76859, 
+          "lng": 6.0251563
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Monschauer Stra\u00dfe", 
+      "location": {
+        "lat": 50.7170815, 
+        "lng": 6.1309431
+      }, 
+      "formatted_address": "Monschauer Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7523821, 
+          "lng": 6.1791225
+        }, 
+        "southwest": {
+          "lat": 50.68661909999999, 
+          "lng": 6.0974216
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7523821, 
+          "lng": 6.1791225
+        }, 
+        "southwest": {
+          "lat": 50.68661909999999, 
+          "lng": 6.0974216
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Napoleonsberg", 
+      "location": {
+        "lat": 50.7320023, 
+        "lng": 6.1788237
+      }, 
+      "formatted_address": "Napoleonsberg, 52076 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7392855, 
+          "lng": 6.1881984
+        }, 
+        "southwest": {
+          "lat": 50.7273208, 
+          "lng": 6.173607199999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7392855, 
+          "lng": 6.1881984
+        }, 
+        "southwest": {
+          "lat": 50.7273208, 
+          "lng": 6.173607199999999
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Freunder Landstra\u00dfe", 
+      "location": {
+        "lat": 50.7525315, 
+        "lng": 6.180102
+      }, 
+      "formatted_address": "Freunder Landstra\u00dfe, 52078 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7537919, 
+          "lng": 6.195887099999999
+        }, 
+        "southwest": {
+          "lat": 50.7492348, 
+          "lng": 6.1648225
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7537919, 
+          "lng": 6.195887099999999
+        }, 
+        "southwest": {
+          "lat": 50.7492348, 
+          "lng": 6.1648225
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Krefelder Stra\u00dfe", 
+      "location": {
+        "lat": 50.7929506, 
+        "lng": 6.0992834
+      }, 
+      "formatted_address": "Krefelder Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8045236, 
+          "lng": 6.1108859
+        }, 
+        "southwest": {
+          "lat": 50.7818863, 
+          "lng": 6.0882085
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8045236, 
+          "lng": 6.1108859
+        }, 
+        "southwest": {
+          "lat": 50.7818863, 
+          "lng": 6.0882085
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "J\u00fclicher Stra\u00dfe", 
+      "location": {
+        "lat": 50.784523, 
+        "lng": 6.1090099
+      }, 
+      "formatted_address": "J\u00fclicher Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7938936, 
+          "lng": 6.121461
+        }, 
+        "southwest": {
+          "lat": 50.7781392, 
+          "lng": 6.0940791
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7938936, 
+          "lng": 6.121461
+        }, 
+        "southwest": {
+          "lat": 50.7781392, 
+          "lng": 6.0940791
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Trierer Stra\u00dfe", 
+      "location": {
+        "lat": 50.7568566, 
+        "lng": 6.147651
+      }, 
+      "formatted_address": "Trierer Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7706368, 
+          "lng": 6.1750169
+        }, 
+        "southwest": {
+          "lat": 50.7392855, 
+          "lng": 6.1165408
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7706368, 
+          "lng": 6.1750169
+        }, 
+        "southwest": {
+          "lat": 50.7392855, 
+          "lng": 6.1165408
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Forster Weg", 
+      "location": {
+        "lat": 50.7613378, 
+        "lng": 6.1050512
+      }, 
+      "formatted_address": "Forster Weg, 52066 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.76455259999999, 
+          "lng": 6.109702299999999
+        }, 
+        "southwest": {
+          "lat": 50.758143, 
+          "lng": 6.1017544
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.76455259999999, 
+          "lng": 6.109702299999999
+        }, 
+        "southwest": {
+          "lat": 50.758143, 
+          "lng": 6.1017544
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Eupener Stra\u00dfe", 
+      "location": {
+        "lat": 50.742506, 
+        "lng": 6.0879954
+      }, 
+      "formatted_address": "Eupener Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.76208, 
+          "lng": 6.09327
+        }, 
+        "southwest": {
+          "lat": 50.7223626, 
+          "lng": 6.082689999999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.76208, 
+          "lng": 6.09327
+        }, 
+        "southwest": {
+          "lat": 50.7223626, 
+          "lng": 6.082689999999999
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Bleiberger Stra\u00dfe", 
+      "location": {
+        "lat": 50.7735609, 
+        "lng": 6.0612393
+      }, 
+      "formatted_address": "Bleiberger Stra\u00dfe, 52074 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.774765, 
+          "lng": 6.072265799999999
+        }, 
+        "southwest": {
+          "lat": 50.7690534, 
+          "lng": 6.052108400000001
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.774765, 
+          "lng": 6.072265799999999
+        }, 
+        "southwest": {
+          "lat": 50.7690534, 
+          "lng": 6.052108400000001
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Horbacher Stra\u00dfe", 
+      "location": {
+        "lat": 50.8320568, 
+        "lng": 6.045194599999999
+      }, 
+      "formatted_address": "Horbacher Stra\u00dfe, 52072 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8463103, 
+          "lng": 6.0605436
+        }, 
+        "southwest": {
+          "lat": 50.8092426, 
+          "lng": 6.0189892
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8463103, 
+          "lng": 6.0605436
+        }, 
+        "southwest": {
+          "lat": 50.8092426, 
+          "lng": 6.0189892
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Ahornstra\u00dfe", 
+      "location": {
+        "lat": 50.78010339999999, 
+        "lng": 6.060604499999999
+      }, 
+      "formatted_address": "Ahornstra\u00dfe, 52074 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.78191469999999, 
+          "lng": 6.0646353
+        }, 
+        "southwest": {
+          "lat": 50.7780954, 
+          "lng": 6.0562295
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.78191469999999, 
+          "lng": 6.0646353
+        }, 
+        "southwest": {
+          "lat": 50.7780954, 
+          "lng": 6.0562295
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Seffenter Weg", 
+      "location": {
+        "lat": 50.7838336, 
+        "lng": 6.0587528
+      }, 
+      "formatted_address": "Seffenter Weg, 52074 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.78832629999999, 
+          "lng": 6.0722191
+        }, 
+        "southwest": {
+          "lat": 50.7797796, 
+          "lng": 6.046850000000001
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.78832629999999, 
+          "lng": 6.0722191
+        }, 
+        "southwest": {
+          "lat": 50.7797796, 
+          "lng": 6.046850000000001
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Horbacher Stra\u00dfe", 
+      "location": {
+        "lat": 50.8320568, 
+        "lng": 6.045194599999999
+      }, 
+      "formatted_address": "Horbacher Stra\u00dfe, 52072 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8463103, 
+          "lng": 6.0605436
+        }, 
+        "southwest": {
+          "lat": 50.8092426, 
+          "lng": 6.0189892
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8463103, 
+          "lng": 6.0605436
+        }, 
+        "southwest": {
+          "lat": 50.8092426, 
+          "lng": 6.0189892
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Roermonder Stra\u00dfe", 
+      "location": {
+        "lat": 50.7994114, 
+        "lng": 6.0627548
+      }, 
+      "formatted_address": "Roermonder Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8221014, 
+          "lng": 6.0783407
+        }, 
+        "southwest": {
+          "lat": 50.7816182, 
+          "lng": 6.05997
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8221014, 
+          "lng": 6.0783407
+        }, 
+        "southwest": {
+          "lat": 50.7816182, 
+          "lng": 6.05997
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Nordstra\u00dfe", 
+      "location": {
+        "lat": 50.7593176, 
+        "lng": 6.1656198
+      }, 
+      "formatted_address": "Nordstra\u00dfe, 52078 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7671907, 
+          "lng": 6.168492
+        }, 
+        "southwest": {
+          "lat": 50.7516174, 
+          "lng": 6.1596246
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7671907, 
+          "lng": 6.168492
+        }, 
+        "southwest": {
+          "lat": 50.7516174, 
+          "lng": 6.1596246
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Eilendorfer Stra\u00dfe", 
+      "location": {
+        "lat": 50.7572243, 
+        "lng": 6.1726483
+      }, 
+      "formatted_address": "Eilendorfer Stra\u00dfe, 52078 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.762285, 
+          "lng": 6.1762532
+        }, 
+        "southwest": {
+          "lat": 50.7517392, 
+          "lng": 6.1671551
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.762285, 
+          "lng": 6.1762532
+        }, 
+        "southwest": {
+          "lat": 50.7517392, 
+          "lng": 6.1671551
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Rombachstra\u00dfe", 
+      "location": {
+        "lat": 50.75010959999999, 
+        "lng": 6.1552462
+      }, 
+      "formatted_address": "Rombachstra\u00dfe, 52078 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7520393, 
+          "lng": 6.1581283
+        }, 
+        "southwest": {
+          "lat": 50.74695370000001, 
+          "lng": 6.1518646
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7520393, 
+          "lng": 6.1581283
+        }, 
+        "southwest": {
+          "lat": 50.74695370000001, 
+          "lng": 6.1518646
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Zieglerstra\u00dfe", 
+      "location": {
+        "lat": 50.7675738, 
+        "lng": 6.1489042
+      }, 
+      "formatted_address": "Zieglerstra\u00dfe, 52078 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7694597, 
+          "lng": 6.151809999999999
+        }, 
+        "southwest": {
+          "lat": 50.76536530000001, 
+          "lng": 6.147146
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7694597, 
+          "lng": 6.151809999999999
+        }, 
+        "southwest": {
+          "lat": 50.76536530000001, 
+          "lng": 6.147146
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Gr\u00fcner Weg", 
+      "location": {
+        "lat": 50.789858, 
+        "lng": 6.1057165
+      }, 
+      "formatted_address": "Gr\u00fcner Weg, 52070 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7966699, 
+          "lng": 6.112448
+        }, 
+        "southwest": {
+          "lat": 50.7839561, 
+          "lng": 6.0984983
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7966699, 
+          "lng": 6.112448
+        }, 
+        "southwest": {
+          "lat": 50.7839561, 
+          "lng": 6.0984983
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Elsassstra\u00dfe", 
+      "location": {
+        "lat": 50.7760286, 
+        "lng": 6.1197401
+      }, 
+      "formatted_address": "Elsassstra\u00dfe, 52068 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7795248, 
+          "lng": 6.124229199999999
+        }, 
+        "southwest": {
+          "lat": 50.7721342, 
+          "lng": 6.1131912
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7795248, 
+          "lng": 6.124229199999999
+        }, 
+        "southwest": {
+          "lat": 50.7721342, 
+          "lng": 6.1131912
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Stolberger Stra\u00dfe", 
+      "location": {
+        "lat": 50.7767449, 
+        "lng": 6.1171017
+      }, 
+      "formatted_address": "Stolberger Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.77767, 
+          "lng": 6.125579999999999
+        }, 
+        "southwest": {
+          "lat": 50.7743271, 
+          "lng": 6.106550800000001
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.77767, 
+          "lng": 6.125579999999999
+        }, 
+        "southwest": {
+          "lat": 50.7743271, 
+          "lng": 6.106550800000001
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Oranienstr./Viktoriastr.", 
+      "location": {
+        "lat": 50.7684248, 
+        "lng": 6.1086173
+      }, 
+      "formatted_address": "Viktoriaallee, 52066 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7702578, 
+          "lng": 6.109992680291502
+        }, 
+        "southwest": {
+          "lat": 50.76682539999999, 
+          "lng": 6.107294719708498
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7702578, 
+          "lng": 6.1096493
+        }, 
+        "southwest": {
+          "lat": 50.76682539999999, 
+          "lng": 6.1076381
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Schleidener Stra\u00dfe", 
+      "location": {
+        "lat": 50.6980639, 
+        "lng": 6.1823071
+      }, 
+      "formatted_address": "Schleidener Stra\u00dfe, 52076 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7143007, 
+          "lng": 6.1864719
+        }, 
+        "southwest": {
+          "lat": 50.681814, 
+          "lng": 6.1786717
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7143007, 
+          "lng": 6.1864719
+        }, 
+        "southwest": {
+          "lat": 50.681814, 
+          "lng": 6.1786717
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "B 258 (Himmelsleiter)", 
+      "location": {
+        "lat": 50.6716079, 
+        "lng": 6.1853064
+      }, 
+      "formatted_address": "Himmelsleiter, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.6818296, 
+          "lng": 6.1882967
+        }, 
+        "southwest": {
+          "lat": 50.6643413, 
+          "lng": 6.1810356
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.6818296, 
+          "lng": 6.1882967
+        }, 
+        "southwest": {
+          "lat": 50.6643413, 
+          "lng": 6.1810356
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "L\u00fctticher Stra\u00dfe", 
+      "location": {
+        "lat": 50.7483236, 
+        "lng": 6.0604531
+      }, 
+      "formatted_address": "L\u00fctticher Stra\u00dfe, Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7690689, 
+          "lng": 6.0741068
+        }, 
+        "southwest": {
+          "lat": 50.726493, 
+          "lng": 6.0338604
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7690689, 
+          "lng": 6.0741068
+        }, 
+        "southwest": {
+          "lat": 50.726493, 
+          "lng": 6.0338604
+        }
+      }
+    }, 
+    {
+      "city": "Aachen", 
+      "name": "Freunder Landstra\u00dfe", 
+      "location": {
+        "lat": 50.7525315, 
+        "lng": 6.180102
+      }, 
+      "formatted_address": "Freunder Landstra\u00dfe, 52078 Aachen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7537919, 
+          "lng": 6.195887099999999
+        }, 
+        "southwest": {
+          "lat": 50.7492348, 
+          "lng": 6.1648225
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7537919, 
+          "lng": 6.195887099999999
+        }, 
+        "southwest": {
+          "lat": 50.7492348, 
+          "lng": 6.1648225
+        }
+      }
+    }, 
+    {
+      "city": "Alsdorf", 
+      "name": "L 240 n", 
+      "location": {
+        "lat": 32.7485115, 
+        "lng": -111.5589461
+      }, 
+      "formatted_address": "240 West Alsdorf Road, Eloy, AZ 85131, USA", 
+      "location_type": "RANGE_INTERPOLATED", 
+      "viewport": {
+        "northeast": {
+          "lat": 32.74985273029149, 
+          "lng": -111.5575971197085
+        }, 
+        "southwest": {
+          "lat": 32.7471547697085, 
+          "lng": -111.5602950802915
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 32.7485115, 
+          "lng": -111.5589461
+        }, 
+        "southwest": {
+          "lat": 32.748496, 
+          "lng": -111.5589461
+        }
+      }
+    }, 
+    {
+      "city": "Alsdorf", 
+      "name": "Goethestra\u00dfe", 
+      "location": {
+        "lat": 50.8621625, 
+        "lng": 6.217973
+      }, 
+      "formatted_address": "Goethestra\u00dfe, 52477 Alsdorf, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8686991, 
+          "lng": 6.2245121
+        }, 
+        "southwest": {
+          "lat": 50.85673689999999, 
+          "lng": 6.2135336
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8686991, 
+          "lng": 6.2245121
+        }, 
+        "southwest": {
+          "lat": 50.85673689999999, 
+          "lng": 6.2135336
+        }
+      }
+    }, 
+    {
+      "city": "Alsdorf", 
+      "name": "Wardener Stra\u00dfe", 
+      "location": {
+        "lat": 50.86031879999999, 
+        "lng": 6.2104899
+      }, 
+      "formatted_address": "Wardener Stra\u00dfe, 52477 Alsdorf, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8632514, 
+          "lng": 6.2191111
+        }, 
+        "southwest": {
+          "lat": 50.8593031, 
+          "lng": 6.2065948
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8632514, 
+          "lng": 6.2191111
+        }, 
+        "southwest": {
+          "lat": 50.8593031, 
+          "lng": 6.2065948
+        }
+      }
+    }, 
+    {
+      "city": "Alsdorf", 
+      "name": "Pr\u00e4mienstra\u00dfe", 
+      "location": {
+        "lat": 50.8690204, 
+        "lng": 6.1439929
+      }, 
+      "formatted_address": "Pr\u00e4mienstra\u00dfe, 52477 Alsdorf, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.87084, 
+          "lng": 6.1573715
+        }, 
+        "southwest": {
+          "lat": 50.8679121, 
+          "lng": 6.130658299999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.87084, 
+          "lng": 6.1573715
+        }, 
+        "southwest": {
+          "lat": 50.8679121, 
+          "lng": 6.130658299999999
+        }
+      }
+    }, 
+    {
+      "city": "Alsdorf", 
+      "name": "J\u00fclicher Stra\u00dfe 240", 
+      "location": {
+        "lat": 50.8717447, 
+        "lng": 6.219549799999999
+      }, 
+      "formatted_address": "J\u00fclicher Stra\u00dfe 240, 52477 Alsdorf, Germany", 
+      "location_type": "ROOFTOP", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8730936802915, 
+          "lng": 6.220898780291502
+        }, 
+        "southwest": {
+          "lat": 50.8703957197085, 
+          "lng": 6.218200819708497
+        }
+      }
+    }, 
+    {
+      "city": "Alsdorf", 
+      "name": "L240", 
+      "location": {
+        "lat": 50.8780438, 
+        "lng": 6.2017842
+      }, 
+      "formatted_address": "L240, Alsdorf, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8905134, 
+          "lng": 6.225812899999999
+        }, 
+        "southwest": {
+          "lat": 50.8616915, 
+          "lng": 6.175068599999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8905134, 
+          "lng": 6.225812899999999
+        }, 
+        "southwest": {
+          "lat": 50.8616915, 
+          "lng": 6.175068599999999
+        }
+      }
+    }, 
+    {
+      "city": "Baesweiler", 
+      "name": "Bahnhofstra\u00dfe", 
+      "location": {
+        "lat": 50.8991154, 
+        "lng": 6.1881525
+      }, 
+      "formatted_address": "Bahnhofstra\u00dfe, 52499 Baesweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.9038891, 
+          "lng": 6.19009
+        }, 
+        "southwest": {
+          "lat": 50.8939828, 
+          "lng": 6.185856999999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.9038891, 
+          "lng": 6.19009
+        }, 
+        "southwest": {
+          "lat": 50.8939828, 
+          "lng": 6.185856999999999
+        }
+      }
+    }, 
+    {
+      "city": "Baesweiler", 
+      "name": "Wolfsgasse", 
+      "location": {
+        "lat": 50.9250918, 
+        "lng": 6.2000549
+      }, 
+      "formatted_address": "Wolfsgasse, 52499 Baesweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.9304916, 
+          "lng": 6.202719800000001
+        }, 
+        "southwest": {
+          "lat": 50.9196, 
+          "lng": 6.1983095
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.9304916, 
+          "lng": 6.202719800000001
+        }, 
+        "southwest": {
+          "lat": 50.9196, 
+          "lng": 6.1983095
+        }
+      }
+    }, 
+    {
+      "city": "Eschweiler", 
+      "name": "J\u00fclicher Stra\u00dfe", 
+      "location": {
+        "lat": 50.84234679999999, 
+        "lng": 6.2800246
+      }, 
+      "formatted_address": "J\u00fclicher Stra\u00dfe, 52249 Eschweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8603432, 
+          "lng": 6.2958652
+        }, 
+        "southwest": {
+          "lat": 50.8218683, 
+          "lng": 6.26702
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8603432, 
+          "lng": 6.2958652
+        }, 
+        "southwest": {
+          "lat": 50.8218683, 
+          "lng": 6.26702
+        }
+      }
+    }, 
+    {
+      "city": "Eschweiler", 
+      "name": "Aachener Stra\u00dfe", 
+      "location": {
+        "lat": 50.8221468, 
+        "lng": 6.230050299999999
+      }, 
+      "formatted_address": "Aachener Stra\u00dfe, Eschweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.824133, 
+          "lng": 6.255218699999999
+        }, 
+        "southwest": {
+          "lat": 50.82080000000001, 
+          "lng": 6.2041963
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.824133, 
+          "lng": 6.255218699999999
+        }, 
+        "southwest": {
+          "lat": 50.82080000000001, 
+          "lng": 6.2041963
+        }
+      }
+    }, 
+    {
+      "city": "Eschweiler", 
+      "name": "C\u00e4cilienstra\u00dfe", 
+      "location": {
+        "lat": 50.81119109999999, 
+        "lng": 6.285305699999999
+      }, 
+      "formatted_address": "C\u00e4cilienstra\u00dfe, 52249 Eschweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8130403, 
+          "lng": 6.2918195
+        }, 
+        "southwest": {
+          "lat": 50.8093, 
+          "lng": 6.2781544
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8130403, 
+          "lng": 6.2918195
+        }, 
+        "southwest": {
+          "lat": 50.8093, 
+          "lng": 6.2781544
+        }
+      }
+    }, 
+    {
+      "city": "Eschweiler", 
+      "name": "R\u00f6her Stra\u00dfe", 
+      "location": {
+        "lat": 50.8169908, 
+        "lng": 6.2394305
+      }, 
+      "formatted_address": "R\u00f6her Stra\u00dfe, 52249 Eschweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.821954, 
+          "lng": 6.239836380291503
+        }, 
+        "southwest": {
+          "lat": 50.8116861, 
+          "lng": 6.237138419708498
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.821954, 
+          "lng": 6.2395948
+        }, 
+        "southwest": {
+          "lat": 50.8116861, 
+          "lng": 6.23738
+        }
+      }
+    }, 
+    {
+      "city": "Eschweiler", 
+      "name": "Wilhelminenstra\u00dfe", 
+      "location": {
+        "lat": 50.8006537, 
+        "lng": 6.2559312
+      }, 
+      "formatted_address": "Wilhelminenstra\u00dfe, 52249 Eschweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8086721, 
+          "lng": 6.2591309
+        }, 
+        "southwest": {
+          "lat": 50.7923166, 
+          "lng": 6.25001
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8086721, 
+          "lng": 6.2591309
+        }, 
+        "southwest": {
+          "lat": 50.7923166, 
+          "lng": 6.25001
+        }
+      }
+    }, 
+    {
+      "city": "Eschweiler", 
+      "name": "Stich", 
+      "location": {
+        "lat": 50.8085187, 
+        "lng": 6.250204099999999
+      }, 
+      "formatted_address": "Stich, 52249 Eschweiler, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8118425, 
+          "lng": 6.2543143
+        }, 
+        "southwest": {
+          "lat": 50.80566, 
+          "lng": 6.245349999999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8118425, 
+          "lng": 6.2543143
+        }, 
+        "southwest": {
+          "lat": 50.80566, 
+          "lng": 6.245349999999999
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "An Speenbruch", 
+      "location": {
+        "lat": 50.8376014, 
+        "lng": 6.0725855
+      }, 
+      "formatted_address": "An Speenbruch, 52134 Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.83972343029151, 
+          "lng": 6.0744064
+        }, 
+        "southwest": {
+          "lat": 50.83702546970851, 
+          "lng": 6.070635100000001
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.83944890000001, 
+          "lng": 6.0744064
+        }, 
+        "southwest": {
+          "lat": 50.8373, 
+          "lng": 6.070635100000001
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "M\u00fchlenstra\u00dfe", 
+      "location": {
+        "lat": 50.8370329, 
+        "lng": 6.083539699999999
+      }, 
+      "formatted_address": "M\u00fchlenstra\u00dfe, 52134 Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8399621, 
+          "lng": 6.0874967
+        }, 
+        "southwest": {
+          "lat": 50.83521, 
+          "lng": 6.0790698
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8399621, 
+          "lng": 6.0874967
+        }, 
+        "southwest": {
+          "lat": 50.83521, 
+          "lng": 6.0790698
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "J\u00fcderstra\u00dfe, L223", 
+      "location": {
+        "lat": 50.85247769999999, 
+        "lng": 6.109661099999999
+      }, 
+      "formatted_address": "J\u00fcderstra\u00dfe, 52134 Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8584452, 
+          "lng": 6.114377999999999
+        }, 
+        "southwest": {
+          "lat": 50.84625250000001, 
+          "lng": 6.10464
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8584452, 
+          "lng": 6.114377999999999
+        }, 
+        "southwest": {
+          "lat": 50.84625250000001, 
+          "lng": 6.10464
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "Geilenkirchener Stra\u00dfe", 
+      "location": {
+        "lat": 50.8832891, 
+        "lng": 6.1166924
+      }, 
+      "formatted_address": "Geilenkirchener Stra\u00dfe, Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.89942139999999, 
+          "lng": 6.1338154
+        }, 
+        "southwest": {
+          "lat": 50.86879589999999, 
+          "lng": 6.096598699999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.89942139999999, 
+          "lng": 6.1338154
+        }, 
+        "southwest": {
+          "lat": 50.86879589999999, 
+          "lng": 6.096598699999999
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "Kirchrather Stra\u00dfe", 
+      "location": {
+        "lat": 50.88409300000001, 
+        "lng": 6.1034543
+      }, 
+      "formatted_address": "Kirchrather Stra\u00dfe, 52134 Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8873432, 
+          "lng": 6.118169399999999
+        }, 
+        "southwest": {
+          "lat": 50.8800311, 
+          "lng": 6.08958
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8873432, 
+          "lng": 6.118169399999999
+        }, 
+        "southwest": {
+          "lat": 50.8800311, 
+          "lng": 6.08958
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "Sebstianusstra\u00dfe", 
+      "location": {
+        "lat": 50.8649918, 
+        "lng": 6.091241000000001
+      }, 
+      "formatted_address": "Herzogenrath, Germany", 
+      "location_type": "APPROXIMATE", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.9134629, 
+          "lng": 6.1454971
+        }, 
+        "southwest": {
+          "lat": 50.8077202, 
+          "lng": 6.0573484
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.9134629, 
+          "lng": 6.1454971
+        }, 
+        "southwest": {
+          "lat": 50.8077202, 
+          "lng": 6.0573484
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "Geilenkirchener Stra\u00dfe", 
+      "location": {
+        "lat": 50.8832891, 
+        "lng": 6.1166924
+      }, 
+      "formatted_address": "Geilenkirchener Stra\u00dfe, Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.89942139999999, 
+          "lng": 6.1338154
+        }, 
+        "southwest": {
+          "lat": 50.86879589999999, 
+          "lng": 6.096598699999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.89942139999999, 
+          "lng": 6.1338154
+        }, 
+        "southwest": {
+          "lat": 50.86879589999999, 
+          "lng": 6.096598699999999
+        }
+      }
+    }, 
+    {
+      "city": "Herzogenrath", 
+      "name": "Bierstra\u00dfe", 
+      "location": {
+        "lat": 50.8705826, 
+        "lng": 6.1163104
+      }, 
+      "formatted_address": "Bierstra\u00dfe, 52134 Herzogenrath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8719072302915, 
+          "lng": 6.130658299999999
+        }, 
+        "southwest": {
+          "lat": 50.8692092697085, 
+          "lng": 6.101843199999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.87161649999999, 
+          "lng": 6.130658299999999
+        }, 
+        "southwest": {
+          "lat": 50.8695, 
+          "lng": 6.101843199999999
+        }
+      }
+    }, 
+    {
+      "city": "Monschau", 
+      "name": "Hargard", 
+      "location": {
+        "lat": 50.565164, 
+        "lng": 6.2459754
+      }, 
+      "formatted_address": "Hargard, 52156 Monschau, Germany", 
+      "location_type": "APPROXIMATE", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.5667840802915, 
+          "lng": 6.2478799
+        }, 
+        "southwest": {
+          "lat": 50.5640861197085, 
+          "lng": 6.2439684
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.566215, 
+          "lng": 6.2478799
+        }, 
+        "southwest": {
+          "lat": 50.5646552, 
+          "lng": 6.2439684
+        }
+      }
+    }, 
+    {
+      "city": "Monschau", 
+      "name": "Eschbachstra\u00dfe", 
+      "location": {
+        "lat": 50.55854129999999, 
+        "lng": 6.249441099999999
+      }, 
+      "formatted_address": "Eschbachstra\u00dfe, 52156 Monschau, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.5625885, 
+          "lng": 6.2555556
+        }, 
+        "southwest": {
+          "lat": 50.55477, 
+          "lng": 6.241877199999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.5625885, 
+          "lng": 6.2555556
+        }, 
+        "southwest": {
+          "lat": 50.55477, 
+          "lng": 6.241877199999999
+        }
+      }
+    }, 
+    {
+      "city": "Roetgen", 
+      "name": "Faulenbruchstra\u00dfe", 
+      "location": {
+        "lat": 50.6439179, 
+        "lng": 6.200886499999999
+      }, 
+      "formatted_address": "Faulenbruchstra\u00dfe, 52159 Roetgen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.650494, 
+          "lng": 6.20302
+        }, 
+        "southwest": {
+          "lat": 50.63767439999999, 
+          "lng": 6.19958
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.650494, 
+          "lng": 6.20302
+        }, 
+        "southwest": {
+          "lat": 50.63767439999999, 
+          "lng": 6.19958
+        }
+      }
+    }, 
+    {
+      "city": "Roetgen", 
+      "name": "Bundesstra\u00dfe", 
+      "location": {
+        "lat": 50.6387955, 
+        "lng": 6.198554499999999
+      }, 
+      "formatted_address": "Bundesstra\u00dfe, 52159 Roetgen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.6524428, 
+          "lng": 6.218419
+        }, 
+        "southwest": {
+          "lat": 50.6318826, 
+          "lng": 6.1838982
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.6524428, 
+          "lng": 6.218419
+        }, 
+        "southwest": {
+          "lat": 50.6318826, 
+          "lng": 6.1838982
+        }
+      }
+    }, 
+    {
+      "city": "Simmerath", 
+      "name": "Wingertsberg", 
+      "location": {
+        "lat": 50.6242495, 
+        "lng": 6.380455599999999
+      }, 
+      "formatted_address": "Wingertsberg, 52152 Simmerath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.6258259802915, 
+          "lng": 6.3829832
+        }, 
+        "southwest": {
+          "lat": 50.62312801970851, 
+          "lng": 6.377550599999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.62566520000001, 
+          "lng": 6.3829832
+        }, 
+        "southwest": {
+          "lat": 50.6232888, 
+          "lng": 6.377550599999999
+        }
+      }
+    }, 
+    {
+      "city": "Simmerath", 
+      "name": "D\u00fcrener Stra\u00dfe 105", 
+      "location": {
+        "lat": 50.63654649999999, 
+        "lng": 6.3203166
+      }, 
+      "formatted_address": "D\u00fcrener Stra\u00dfe 105, 52152 Simmerath, Germany", 
+      "location_type": "RANGE_INTERPOLATED", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.6378948302915, 
+          "lng": 6.321674730291502
+        }, 
+        "southwest": {
+          "lat": 50.6351968697085, 
+          "lng": 6.318976769708497
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.63654649999999, 
+          "lng": 6.3203349
+        }, 
+        "southwest": {
+          "lat": 50.6365452, 
+          "lng": 6.3203166
+        }
+      }
+    }, 
+    {
+      "city": "Simmerath", 
+      "name": "Hauptstra\u00dfe", 
+      "location": {
+        "lat": 50.6048152, 
+        "lng": 6.299073
+      }, 
+      "formatted_address": "Hauptstra\u00dfe, 52152 Simmerath, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.61421, 
+          "lng": 6.30261
+        }, 
+        "southwest": {
+          "lat": 50.5974432, 
+          "lng": 6.2913611
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.61421, 
+          "lng": 6.30261
+        }, 
+        "southwest": {
+          "lat": 50.5974432, 
+          "lng": 6.2913611
+        }
+      }
+    }, 
+    {
+      "city": "Simmerath", 
+      "name": "Eicherscheid", 
+      "location": {
+        "lat": 50.574765, 
+        "lng": 6.314141999999999
+      }, 
+      "formatted_address": "Eicherscheid, 52152 Simmerath, Germany", 
+      "location_type": "APPROXIMATE", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.58346239999999, 
+          "lng": 6.317970499999999
+        }, 
+        "southwest": {
+          "lat": 50.5715903, 
+          "lng": 6.2915885
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.58346239999999, 
+          "lng": 6.317970499999999
+        }, 
+        "southwest": {
+          "lat": 50.5715903, 
+          "lng": 6.2915885
+        }
+      }
+    }, 
+    {
+      "city": "Stolberg", 
+      "name": "Duffenterstra\u00dfe", 
+      "location": {
+        "lat": 50.7764976, 
+        "lng": 6.2494705
+      }, 
+      "formatted_address": "Duffenterstra\u00dfe, 52222 Stolberg (Rhineland), Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7815391, 
+          "lng": 6.256328799999999
+        }, 
+        "southwest": {
+          "lat": 50.77229999999999, 
+          "lng": 6.24396
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7815391, 
+          "lng": 6.256328799999999
+        }, 
+        "southwest": {
+          "lat": 50.77229999999999, 
+          "lng": 6.24396
+        }
+      }
+    }, 
+    {
+      "city": "Stolberg", 
+      "name": "Eschweiler Stra\u00dfe", 
+      "location": {
+        "lat": 50.7872288, 
+        "lng": 6.2223573
+      }, 
+      "formatted_address": "Eschweilerstra\u00dfe, Stolberg (Rhineland), Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7968505, 
+          "lng": 6.2331005
+        }, 
+        "southwest": {
+          "lat": 50.778332, 
+          "lng": 6.2220664
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7968505, 
+          "lng": 6.2331005
+        }, 
+        "southwest": {
+          "lat": 50.778332, 
+          "lng": 6.2220664
+        }
+      }
+    }, 
+    {
+      "city": "Stolberg", 
+      "name": "Pr\u00e4mienstra\u00dfe", 
+      "location": {
+        "lat": 50.7685943, 
+        "lng": 6.2156785
+      }, 
+      "formatted_address": "Pr\u00e4mienstra\u00dfe, 52223 Stolberg (Rhineland), Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.77399, 
+          "lng": 6.21787
+        }, 
+        "southwest": {
+          "lat": 50.7605, 
+          "lng": 6.21062
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.77399, 
+          "lng": 6.21787
+        }, 
+        "southwest": {
+          "lat": 50.7605, 
+          "lng": 6.21062
+        }
+      }
+    }, 
+    {
+      "city": "Stolberg", 
+      "name": "Zeifaller Stra\u00dfe", 
+      "location": {
+        "lat": 50.7553401, 
+        "lng": 6.2433993
+      }, 
+      "formatted_address": "Zweifaller Stra\u00dfe, Stolberg (Rhineland), Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7659344, 
+          "lng": 6.25931
+        }, 
+        "southwest": {
+          "lat": 50.7491166, 
+          "lng": 6.230449999999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7659344, 
+          "lng": 6.25931
+        }, 
+        "southwest": {
+          "lat": 50.7491166, 
+          "lng": 6.230449999999999
+        }
+      }
+    }, 
+    {
+      "city": "Stolberg", 
+      "name": "Breiniger Berg", 
+      "location": {
+        "lat": 50.7407494, 
+        "lng": 6.243847499999999
+      }, 
+      "formatted_address": "Breiniger Berg, Stolberg (Rhineland), Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.7491166, 
+          "lng": 6.25741
+        }, 
+        "southwest": {
+          "lat": 50.73372999999999, 
+          "lng": 6.227539999999999
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7491166, 
+          "lng": 6.25741
+        }, 
+        "southwest": {
+          "lat": 50.73372999999999, 
+          "lng": 6.227539999999999
+        }
+      }
+    }, 
+    {
+      "city": "Stolberg", 
+      "name": "Markusplatz", 
+      "location": {
+        "lat": 50.7572421, 
+        "lng": 6.276574099999999
+      }, 
+      "formatted_address": "Markusplatz, 52224 Stolberg (Rhineland), Germany", 
+      "location_type": "APPROXIMATE", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.75856248029149, 
+          "lng": 6.278104180291503
+        }, 
+        "southwest": {
+          "lat": 50.7558645197085, 
+          "lng": 6.275406219708498
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.7575055, 
+          "lng": 6.2773826
+        }, 
+        "southwest": {
+          "lat": 50.7569215, 
+          "lng": 6.276127799999999
+        }
+      }
+    }, 
+    {
+      "city": "W\u00fcrselen", 
+      "name": "Dobacher Stra\u00dfe", 
+      "location": {
+        "lat": 50.8159319, 
+        "lng": 6.146529399999999
+      }, 
+      "formatted_address": "Dobacher Stra\u00dfe, 52146 W\u00fcrselen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8182034, 
+          "lng": 6.1505983
+        }, 
+        "southwest": {
+          "lat": 50.8126826, 
+          "lng": 6.14067
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8182034, 
+          "lng": 6.1505983
+        }, 
+        "southwest": {
+          "lat": 50.8126826, 
+          "lng": 6.14067
+        }
+      }
+    }, 
+    {
+      "city": "W\u00fcrselen", 
+      "name": "Oppener Stra\u00dfe", 
+      "location": {
+        "lat": 50.8123467, 
+        "lng": 6.1404866
+      }, 
+      "formatted_address": "Oppener Stra\u00dfe, 52146 W\u00fcrselen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8155198, 
+          "lng": 6.1439316
+        }, 
+        "southwest": {
+          "lat": 50.8087545, 
+          "lng": 6.13508
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.8155198, 
+          "lng": 6.1439316
+        }, 
+        "southwest": {
+          "lat": 50.8087545, 
+          "lng": 6.13508
+        }
+      }
+    }, 
+    {
+      "city": "W\u00fcrselen", 
+      "name": "Schweilbacher Stra\u00dfe", 
+      "location": {
+        "lat": 50.82294210000001, 
+        "lng": 6.1174493
+      }, 
+      "formatted_address": "Schweilbacher Stra\u00dfe, 52146 W\u00fcrselen, Germany", 
+      "location_type": "GEOMETRIC_CENTER", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.8241873302915, 
+          "lng": 6.1269472
+        }, 
+        "southwest": {
+          "lat": 50.8214893697085, 
+          "lng": 6.108024
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.82408969999999, 
+          "lng": 6.1269472
+        }, 
+        "southwest": {
+          "lat": 50.821587, 
+          "lng": 6.108024
+        }
+      }
+    }, 
+    {
+      "city": "W\u00fcrselen", 
+      "name": "Umgehungsstra\u00dfe", 
+      "location": {
+        "lat": 50.8216502, 
+        "lng": 6.1320672
+      }, 
+      "formatted_address": "W\u00fcrselen, Germany", 
+      "location_type": "APPROXIMATE", 
+      "viewport": {
+        "northeast": {
+          "lat": 50.85563879999999, 
+          "lng": 6.2099695
+        }, 
+        "southwest": {
+          "lat": 50.8028791, 
+          "lng": 6.0865568
+        }
+      }, 
+      "bounds": {
+        "northeast": {
+          "lat": 50.85563879999999, 
+          "lng": 6.2099695
+        }, 
+        "southwest": {
+          "lat": 50.8028791, 
+          "lng": 6.0865568
+        }
+      }
+    }
+  ]
+}

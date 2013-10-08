@@ -1,0 +1,272 @@
+{
+  "streets" : [
+		{
+			"name" : "Vaalser Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Monschauer Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Napoleonsberg",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Freunder Landstraße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Krefelder Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Jülicher Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Trierer Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Forster Weg",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Eupener Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Bleiberger Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Horbacher Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Ahornstraße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Seffenter Weg",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Horbacher Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Roermonder Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Nordstraße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Eilendorfer Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Rombachstraße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Zieglerstraße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Grüner Weg",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Elsassstraße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Stolberger Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Oranienstr./Viktoriastr.",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Schleidener Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "B 258 (Himmelsleiter)",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Lütticher Straße",
+			"city" : "Aachen"
+		},
+		{	
+			"name" : "Freunder Landstraße",
+			"city" : "Aachen"
+		},
+		{
+			"name" : "L 240 n",
+			"city" : "Alsdorf"
+		},
+		{
+			"name" : "Goethestraße",
+			"city" : "Alsdorf"
+		},
+		{
+			"name" : "Wardener Straße",
+			"city" : "Alsdorf"
+		},
+		{
+			"name" : "Prämienstraße",
+			"city" : "Alsdorf"
+		},
+		{
+			"name" : "Jülicher Straße 240",
+			"city" : "Alsdorf"
+		},
+		{
+			"name" : "L240",
+			"city" : "Alsdorf"
+		},
+		{
+			"name" : "Bahnhofstraße",
+			"city" : "Baesweiler"
+		},
+		{
+			"name" : "Wolfsgasse",
+			"city" : "Baesweiler"
+		},
+		{
+			"name" : "Jülicher Straße",
+			"city" : "Eschweiler"
+		},
+		{
+			"name" : "Aachener Straße",
+			"city" : "Eschweiler"
+		},
+		{
+			"name" : "Cäcilienstraße",
+			"city" : "Eschweiler"
+		},
+		{
+			"name" : "Röher Straße",
+			"city" : "Eschweiler"
+		},
+		{
+			"name" : "Wilhelminenstraße",
+			"city" : "Eschweiler"
+		},
+		{
+			"name" : "Stich",
+			"city" : "Eschweiler"
+		},
+		{
+			"name" : "An Speenbruch",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Mühlenstraße",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Jüderstraße, L223",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Geilenkirchener Straße",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Kirchrather Straße",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Sebstianusstraße",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Geilenkirchener Straße",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Bierstraße",
+			"city" : "Herzogenrath"
+		},
+		{
+			"name" : "Hargard",
+			"city" : "Monschau"
+		},
+		{
+			"name" : "Eschbachstraße",
+			"city" : "Monschau"
+		},
+		{
+			"name" : "Faulenbruchstraße",
+			"city" : "Roetgen"
+		},
+		{
+			"name" : "Bundesstraße",
+			"city" : "Roetgen"
+		},
+		{
+			"name" : "Wingertsberg",
+			"city" : "Simmerath"
+		},
+		{
+			"name" : "Dürener Straße 105",
+			"city" : "Simmerath"
+		},
+		{
+			"name" : "Hauptstraße",
+			"city" : "Simmerath"
+		},
+		{
+			"name" : "Eicherscheid",
+			"city" : "Simmerath"
+		},
+		{
+			"name" : "Duffenterstraße",
+			"city" : "Stolberg"
+		},
+		{
+			"name" : "Eschweiler Straße",
+			"city" : "Stolberg"
+		},
+		{
+			"name" : "Prämienstraße",
+			"city" : "Stolberg"
+		},
+		{
+			"name" : "Zeifaller Straße",
+			"city" : "Stolberg"
+		},
+		{
+			"name" : "Breiniger Berg",
+			"city" : "Stolberg"
+		},
+		{
+			"name" : "Markusplatz",
+			"city" : "Stolberg"
+		},
+		{
+			"name" : "Dobacher Straße",
+			"city" : "Würselen"
+		},
+		{
+			"name" : "Oppener Straße",
+			"city" : "Würselen"
+		},
+		{
+			"name" : "Schweilbacher Straße",
+			"city" : "Würselen"
+		},
+		{
+			"name" : "Umgehungsstraße",
+			"city" : "Würselen"
+		}
+	]
+}
