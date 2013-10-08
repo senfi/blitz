@@ -8,3 +8,5 @@ Lauffähige Version zum ansehen hier: http://tobiasb.de/neu/blz/
 
 Die Geolocation der Straßen wird per Python-Skript von Google Maps geladen und lokal im JSON Format auf
 dem Server gespeichert.
+
+Das ganz praktische Google-Maps-Javascript-Ding kommt von: http://hpneo.github.io/gmaps/
