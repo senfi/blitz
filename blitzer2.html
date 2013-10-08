@@ -50,12 +50,24 @@
 		
 		var streetobj = JSON.parse(streetjson); 
 
-		for(var i = 0; i< streetobj.streets.length; i++) {
-			var item = streetobj.streets[i];
+
+		console.log
+
+
+		function inloop(n) {
+			var item = streetobj.streets[n];
 			console.log("geocoding: " + item.name + ", " + item.city);
 			mygeocode( item.name + ", " + item.city);
-			
 		}
+
+		(function myLoop (i) {          
+			setTimeout(function () {   
+      inloop(i);         //  your code here                
+      if (--i) myLoop(i);      //  decrement i and call myLoop again if i > 0
+  }, 1010)
+		})(streetobj.streets.length-1); 
+
+		
 	});
 </script>
 
